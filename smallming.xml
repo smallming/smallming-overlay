@@ -1,0 +1,13 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>smallming</name>
+    <description>smallming overlay</description>
+    <homepage>https://github.com/smallming/smallming-overlay</homepage>
+    <owner>
+      <email>smallming+overlay@gmail.com</email>
+      <name>smallming</name>
+    </owner>
+    <source type="git">git://github.com/smallming/smallming-overlay.git</source>
+    <feed>https://github.com/smallming/smallming-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
